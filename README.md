@@ -35,6 +35,8 @@
 
 **Random Greetings** is an rails backend api application.
 
+[Front-End Project](https://github.com/SaneMyburg/react-front-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -121,7 +123,7 @@ To run tests, run the following command:
 👤 **Sane Myburg**
 
 
-- GitHub: [@isume295](https://github.com/SaneMyburg)
+- GitHub: [@SaneMyburg](https://github.com/SaneMyburg)
 
 
 <!-- FUTURE FEATURES -->
